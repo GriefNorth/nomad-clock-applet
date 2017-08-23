@@ -1,0 +1,5 @@
+nomad-clock-applet (1.0-1) nxos; urgency=medium
+
+  * Initial release
+
+ -- Alexis López Zubieta <azubieta90@gmail.com>  Wed, 23 Aug 2017 00:38:51 -0500
